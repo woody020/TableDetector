@@ -2,7 +2,7 @@ TableDetector
 
 TableDetector : Deep Learning Model for end-to-end table table detection from Scanned Document Images.
 
-TableDetector is inspired TableNet, a IDCAR 2019 paper proposed by a research team from TCS.
+TableDetector is inspired by TableNet, a IDCAR 2019 paper proposed by a research team from TCS.
 
 [__Paper__](https://arxiv.org/abs/2001.01469)
 
@@ -19,7 +19,7 @@ tensorflow2.2.0
 6. Train the model, check for predictions, then save the model on drive. Download the model.zip file on your system.
 
 Challenges
-* Requires a very decent System with a good GPU for accurate result on High pixel images. 
+Requires a very decent system with a good GPU for accurate result on High pixel images. 
 
 Dataset
 Download the dataset provided in paper : [Marmot Dataset](https://drive.google.com/drive/folders/1QZiv5RKe3xlOBdTzuTVuYRxixemVIODp). 
