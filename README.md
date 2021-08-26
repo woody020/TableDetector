@@ -1,4 +1,4 @@
-# TableDetector
+TableDetector
 
 TableDetector : Deep Learning Model for end-to-end table table detection from Scanned Document Images.
 
